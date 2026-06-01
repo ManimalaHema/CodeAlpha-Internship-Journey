@@ -7,7 +7,7 @@ for CodeAlpha Internship. Users can browse products, add to cart, and place orde
 ## Tech Stack
 Frontend: HTML5, CSS3, JavaScript
 Backend: Node.js with Express.js - runs on localhost:3000
-Database:MongoDB for storing products, users, and orders
+Database:In-Memory array for storing products, users, and orders
 
 ## Features Implemented
 - User registration and login

@@ -1,6 +1,6 @@
 # CodeAlpha Internship Journey 
 
-I am happy to share that I have been selected for the "Full Stack Development Internship at CodeAlpha"
+I am happy to share that I have been selected for the "Full Stack Development Internship at CodeAlpha"🎉
 
 I strongly believe that platforms like CodeAlpha help students gain 
 valuable hands-on experience through real-world projects and practical 

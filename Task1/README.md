@@ -23,4 +23,3 @@ Database:MongoDB / MySQL for storing products, users, and orders
 4. Start server: `node server.js` or `npm start`
 5. Open browser: `http://localhost:3000`
 
-## Folder Structure

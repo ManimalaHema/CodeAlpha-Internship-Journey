@@ -14,7 +14,7 @@ Database:In-Memory array for storing products, users, and orders
 - Product listings page
 - Shopping cart functionality
 - Order processing system
-- Database integration for products, users, orders
+- Temporary data storage using JavaScript arrays
 
 ## How to Run Locally
 1. Clone this repository

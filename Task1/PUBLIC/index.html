@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Code Alpha Store</title>
+        <link rel="stylesheet" href="style.css"
+    </head>
+    <body>
+        <h1>Code Alpha E-commerce</h1>
+            <div class="auth">
+  <h2>Welcome to Code Alpha</h2>
+  <div id="login-form">
+    <h3>Login</h3>
+    <input type="email" id="login-email" placeholder="Email">
+    <input type="password" id="login-password" placeholder="Password">
+    <button onclick="loginUser()">Login</button>
+    <p>New user? <a href="#" onclick="showRegister()">Create Account</a></p>
+  </div>
+
+  <div id="register-form" style="display:none">
+    <h3>Register</h3>
+    <input type="email" id="register-email" placeholder="Email">
+    <input type="password" id="register-password" placeholder="Password">
+    <button onclick="registerUser()">Create Account</button>
+    <p>Already have an account? <a href="#" onclick="showLogin()">Login Here</a></p>
+  </div>
+  <p id="userStatus"></p>
+</div>
+<hr>
+         <div class="main-container">
+
+       
+      <div id="products"></div>
+      <div id="cart-sidebar">
+        <h2>Your Cart🛒</h2>
+      <div id="cart">
+        cart is empty
+        </div>
+    <button onclick="placeOrder()" 
+    style="margin-top:10px; width:100%;
+     padding:8px; background:#007bff; 
+     color:white; border:none; 
+     border-radius:5px; cursor:pointer;">
+     Place Order
+    </button>
+    </div>
+    </div>
+        <script src="script.js">
+        </script>
+    </body>
+</html>
+
